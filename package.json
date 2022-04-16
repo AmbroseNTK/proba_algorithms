@@ -1,0 +1,18 @@
+{
+  "name": "membership_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fnv-plus": "^1.3.1",
+    "jenkins-hash": "^1.0.1",
+    "non-crypto-hash": "^0.1.2",
+    "string-hash": "^1.1.3",
+    "uuid": "^8.3.2"
+  }
+}
